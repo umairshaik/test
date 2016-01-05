@@ -8,6 +8,7 @@ Notepad++ v6.8.8 bug-fixes and enhancements:
 6.  Enhance syntax highlighting for D, Powershell, Lua and Python.
 7.  Enhance syntax highlighting of preprocessor comments for several languages.
 8.  Improve close button in tab position. and alway ways to helper
+9.  Fun
 
 
 Included plugins:
