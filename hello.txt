@@ -35,4 +35,8 @@ git branch -D [name_of_your_new_branch]
 (Delete the branch on github :)
 git push origin :[name_of_your_new_branch]
 
-hello
+(Set a new name)
+git config user.name "Billy Everyteen"
+
+(Verify the setting)
+git config user.name
